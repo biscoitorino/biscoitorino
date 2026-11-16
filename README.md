@@ -30,6 +30,12 @@ Downloads and extracts archives at the same time, so you never need disk space f
 
 `Python` · `PySide6` · `pytest` · `GitHub Actions` · `PyInstaller`
 
+**[Crafting-Materials-Checker](https://github.com/biscoitorino/Crafting-Materials-Checker)** — Market-aware crafting cost and profit tool for FFXIV
+
+Prices all 13,892 crafting recipes against live market data from the Universalis API. Since listings can only be bought as whole stacks, the cheapest price per unit isn't necessarily the cheapest buy. So for each material it finds the set of listings that covers the quantity needed at the lowest total cost, and compares that against NPC vendor prices. Prices use the week's median sale capped at the cheapest live listing, so outlier sales can't inflate the estimates. A profit finder ranks everything a player can craft by margin and weekly sales volume. It ships as a single Windows executable (Node.js single-executable application) with no install required.
+
+`Node.js` · `Fastify` · `REST API` · `esbuild` · `Optimization`
+
 ---
 
 ### Previously
