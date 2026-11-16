@@ -14,6 +14,48 @@ I started as an AR engineer at Pixlog, became Head of Augmented Reality in about
 
 ---
 
+### Skills
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+**Backend & frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Qt](https://img.shields.io/badge/PySide6%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Computer vision & ML**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![AR](https://img.shields.io/badge/Augmented%20Reality-FF4F00?style=for-the-badge)
+![On-device ML](https://img.shields.io/badge/On--device%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL%20%2F%20GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+**Tooling & delivery**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude Code](https://img.shields.io/badge/AI%20coding%20agents-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
 ### Projects
 
 **[poly-gamer](https://github.com/biscoitorino/poly-gamer)** — Systematic trading platform in Python
